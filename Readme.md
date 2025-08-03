@@ -25,7 +25,7 @@ To get the application running locally, ensure you have **Docker** and **Docker 
 **1. Clone the Repository**
 
 ```bash
-git clone [<your-repository-url>](https://github.com/Shriniwas27/alemeno_backend_task.git)
+git clone https://github.com/Shriniwas27/alemeno_backend_task.git
 ```
 
 **2. Place Data Files**
